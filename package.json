@@ -9,13 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@react-native-async-storage/async-storage": "1.18.2",
     "@react-navigation/native": "^6.1.7",
     "@react-navigation/native-stack": "^6.9.13",
     "@react-navigation/stack": "^6.3.17",
+    "axios": "^1.4.0",
     "expo": "^49.0.3",
     "expo-status-bar": "~1.6.0",
+    "lodash": "^4.17.21",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
     "react-native": "0.72.3",
@@ -25,12 +26,6 @@
     "react-native-screens": "~3.22.0",
     "tailwindcss": "3.3.2",
     "twrnc": "^3.6.2"
-=======
-    "expo": "~48.0.18",
-    "expo-status-bar": "~1.4.4",
-    "react": "18.2.0",
-    "react-native": "0.71.8"
->>>>>>> c69202368a1f0d5a7af43f8adbed452e6042fbd4
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
